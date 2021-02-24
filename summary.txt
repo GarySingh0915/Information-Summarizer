@@ -1,0 +1,35 @@
+Collection contains 6000 records.
+First person: 1, Hugo L. Casey, 651990
+ Last person: 6000, Wilber J. Ordway, 1151971
+
+Collection contains 635 unique First names.
+           John: 123          James: 118        Michael: 113         Robert:  91
+          David:  90        William:  74           Mary:  66         Thomas:  58
+         Joseph:  56        Charles:  46    Christopher:  38      Elizabeth:  36
+          Maria:  34       Jennifer:  33        Barbara:  32       Margaret:  31
+         Steven:  29         Edward:  28        Dorothy:  27          Jason:  26
+           Jose:  25         Donald:  24         George:  23          Brian:  22
+          Helen:  21          Donna:  20         Daniel:  19         Andrew:  18
+        Anthony:  17            Amy:  16          Alice:  15         Arthur:  14
+           Alan:  13           Adam:  12         Cheryl:  11         Albert:  10
+          Billy:   9           Alma:   8          Allen:   7          Alvin:   6
+          Aaron:   5          Aimee:   4         Alison:   3           Abel:   2
+        Abraham:   1
+
+Collection contains 1288 unique City names.
+             New York:  95          Los Angeles:  92              Houston:  77
+         Philadelphia:  63              Chicago:  61               Dallas:  52
+              Atlanta:  50            San Diego:  45              Seattle:  44
+              Phoenix:  43             Portland:  40        San Francisco:  38
+            Charlotte:  36           Washington:  34                Miami:  32
+              Jackson:  31         Indianapolis:  30              Memphis:  29
+            Cambridge:  27               Austin:  26           Louisville:  25
+            Arlington:  24           Birmingham:  23               Camden:  22
+               Boston:  21            Baltimore:  20       Corpus Christi:  19
+                Akron:  18         Fayetteville:  17           Montgomery:  16
+               Albany:  15          Albuquerque:  14      Fort Lauderdale:  13
+               Aurora:  12           Charleston:  11            Asheville:  10
+             Appleton:   9                Boise:   8              Altoona:   7
+              Abilene:   6            Annapolis:   5               Adrian:   4
+                Allen:   3                Acton:   2                  Ada:   1
+
